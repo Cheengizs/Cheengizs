@@ -25,9 +25,16 @@
 
 ---
 
-## 📈 Статистика GitHub
+## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 💡 LeetCode Статистика
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Cheengizs)](https://leetcode.com/Cheengizs)  
+_(Замени `Cheengizs` на свой никнейм LeetCode)_
 
 ---
