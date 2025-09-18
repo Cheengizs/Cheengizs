@@ -41,4 +41,4 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 
 ## 🌐 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/artem-valinskiy-a50740385/)
