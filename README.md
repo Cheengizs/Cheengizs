@@ -16,8 +16,8 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cheengizs&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheengizs&layout=compact&theme=radical)
 
 ---
 
@@ -29,4 +29,8 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 
 ## 🌐 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-valinskiy-a50740385)
+<p align="left">
+  <a href="https://www.linkedin.com/in/artem-valinskiy-a50740385">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
