@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am a **Junior .NET Developer**.  
+I am a **.NET Developer**.  
 Currently, I am a 3rd-year student at **BSUIR** (Belarusian State University of Informatics and Radioelectronics),  
 Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 
