@@ -41,7 +41,7 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
   <a href="https://www.linkedin.com/in/artem-valinskiy-a50740385" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://t.me/cheengizs" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+  <a href="mailto:valinskiyartem@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
