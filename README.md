@@ -9,7 +9,7 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,html,css,react,postgres,mssql,docker,kubernetes,git,gitlab,powershell,vscode,bots" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,html,css,react,postgres,mongodb,redis,docker,kubernetes,git,gitlab,powershell,vscode" />
 </p>
 
 ---
