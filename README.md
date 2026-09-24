@@ -43,6 +43,7 @@ I am a Fullstack **.NET Developer**. With 1 year of commercial experience
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="t.me/Cheengizs" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+      width = 48 height = 48>
   </a>
 </p>
