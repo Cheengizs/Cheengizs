@@ -1,8 +1,6 @@
 # 👋 Hi there!
 
-I am a **.NET Developer**.  
-Currently, I am a 4th-year student at **BSUIR** (Belarusian State University of Informatics and Radioelectronics),  
-Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
+I am a Fullstack **.NET Developer**. With 1 year of commercial experience
 
 ---
 
@@ -38,10 +36,13 @@ Faculty of Computer Systems and Networks, majoring in **Software Engineering**.
 ## 🌐 Contacts
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/artem-valinskiy-a50740385" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/artem-valinskiy" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:valinskiyartem@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="t.me/Cheengizs" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
   </a>
 </p>
